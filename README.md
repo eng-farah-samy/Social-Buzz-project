@@ -10,7 +10,7 @@ My task is to analyze their content categories that highlight the top 5 categori
 3-How many reactions are there to the most popular category?</br>
 4-What was the month with the most posts?</br>
 
-## The steps I made :
+## The steps :
 1- Upload our Dataset and understand it </br>
 2- Cleaning and understanding our Data </br>
 3- Joining our Datasets </br>
